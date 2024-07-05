@@ -1,0 +1,22 @@
+.options{
+padding: 10px 14px 10px 14px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+}
+h6.sort{
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 14px;
+     font-weight: 600;
+     line-height: 17.07px;
+      text-align: left;
+      padding: 0px;
+      margin: 0px;
+}

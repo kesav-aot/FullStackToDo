@@ -1,0 +1,39 @@
+.modal-content
+{
+
+    max-width: 654px;
+top: 79px;
+padding: 20px 0px 0px 0px;
+gap: 32px;
+border-radius: 12px ;
+border: 1px ;
+opacity: 0px;
+
+}
+
+
+.form-group{
+
+    max-width:574px;
+gap: 20px;
+
+margin: 0 12px;
+}
+.content1,.name,.discription,#update_date{
+    max-width:574px;
+    height: Hug (45px)px;
+    padding: 14px 16px 14px 16px;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px  solid #D0D5DD;
+    opacity: 0px;
+    width: 100%;
+   
+}   
+ .btn-secondary
+{
+
+    background: #FFFFFF;
+    color:  #3737de;
+    
+}
